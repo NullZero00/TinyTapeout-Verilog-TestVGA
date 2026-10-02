@@ -13,7 +13,7 @@ Es una prueba muy basica de concepto de pasar de verilog a GDS
 
 ## How to test
 
-simplemente ejecuta
+simplemente ejecuta para tener colores VGA
 
 ## External hardware
 
